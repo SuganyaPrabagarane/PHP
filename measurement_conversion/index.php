@@ -85,10 +85,6 @@
             <div class='result'>
                 <p> <?= $result ?> </p>
             </div>
-
-
-
-
         </form>
     </div>
 </body>
